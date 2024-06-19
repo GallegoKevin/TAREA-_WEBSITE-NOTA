@@ -1,0 +1,19 @@
+{
+  "name": "notas",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "axios": "^1.7.2"
+  },
+  "dependencies": {
+    "react-dom": "^18.3.1",
+    "webpack": "^5.92.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
